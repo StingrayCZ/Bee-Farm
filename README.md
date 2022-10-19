@@ -1,2 +1,6 @@
-# Bee-Farm
-This repo is about my little bee farm 🍯🐝
+# Bee Farm 🍯🐝
+Beekeeping is tradional actvity for 
+
+<p>
+<img src="./Pics/All.jpg" width="850" />
+</p>
