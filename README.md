@@ -3,10 +3,10 @@ Beekeeping is tradional actvity for
 
 Včelaření je v naší rodině dlouholetou tradicí. Již můj praděda se zabýval včelařením od svého mládí až do svých posledních dnů. Bohužel já pocházím z větve, která již druhou generaci žije ve velkoměstě a tak jsem vyrostl v bytovém domě, kde nebyla žádná zvířata. Kromě psů, koček a drobných hlodavců. To se změnilo v roce 2016, kdy jsem se rozhodl vrátit ke kořenům.
 <p>
-<img src="./Pics/All.png" width="850" />
+<lign = "center" img src="./Pics/All.png" width="850" />
 </p>
 
-<figcaption text-align = "center"><b>Fig.1 - Current status (Oct 2022)</b></figcaption>
+<figcaption align = "center"><b>Fig.1 - Current status (Oct 2022)</b></figcaption>
 
 <h1 align="center">Material Bread</h1>
 
