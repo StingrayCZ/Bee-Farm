@@ -6,7 +6,7 @@ Včelaření je v naší rodině dlouholetou tradicí. Již můj praděda se zab
 <img src="./Pics/All.png" width="850" />
 </p>
 
-<figcaption align = "center"><b>Fig.1 - Current status (Oct 2022)</b></figcaption>
+<figcaption text-align = "center"><b>Fig.1 - Current status (Oct 2022)</b></figcaption>
 
 <h1 align="center">Material Bread</h1>
 
