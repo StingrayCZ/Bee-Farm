@@ -1,9 +1,5 @@
 # Bee Farm 🍯🐝
 
-
-Beekeeping is tradional actvity for 
-
-
 Včelaření je v naší rodině dlouholetou tradicí. Již můj praděda se zabýval včelařením od svého mládí až do svých posledních dnů. Bohužel já pocházím z větve, která již druhou generaci žije ve velkoměstě a tak jsem vyrostl v bytovém domě, kde nebyla žádná zvířata. Kromě psů, koček a drobných hlodavců. To se změnilo v roce 2016, kdy jsem se rozhodl vrátit ke kořenům.
 
 
@@ -19,8 +15,8 @@ Prvním krokem byl vstup do včelařské skupiny pro začínající hobby včela
 
 
 <p align="center">
-    <img src="./Pics/Beginning.png" width="700" />
-    <img src="./Pics/Beginning_bees.png" width="262" />
+    <img src="./Pics/Beginning.png" width="500" />
+    <img src="./Pics/Beginning_bees.png" width="188 />
         <p align="center">
             <b>Fig.2,3 - Deployment (15th July 2021)</b>
         </p>
