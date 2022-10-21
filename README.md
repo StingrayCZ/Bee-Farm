@@ -42,21 +42,27 @@ Protože zelená a žlutá platforma vznikly jako improvizované řešení a umo
         </p>
 </p>
 
-Dřevěné trámy jsou nařezané na potřebné rozměry přímo u prodejce. Následné opracování probíhalo v domácích podmínkách. Všechny dřevěné komponenty jsou opatřeny ochranným nátěrem. Na fotce 4 je zobrazen stav farmy před stavbou nové lavice 
-
+Dřevěné trámy jsou nařezané na potřebné rozměry přímo u prodejce. Následné opracování probíhalo v domácích podmínkách a to včetně lakování olejovou barvou na dřevo.
 <p align="center">
-    <img src="./Pics/Vrtani_A.png" width="430" />
-    <img src="./Pics/WorkShop.png" width="520" />
+    <img src="./Pics/Vrtani_A.png" width="720" />
         <p align="center">
-            <b>Fig.5,6 - Wooden beam 100x100-2500 mm</b>
+            <b>Fig.5 - 
+Drilling holes for screws </b>
         </p>
 </p>
 
-Na obrázku níže je zobrazena sestavy dřevěné konstrukce. Zde máme vzácnou možnost vidět onu sestavu z opačné strany, kde si můžeme povšimnout děr pro napojení na závitové týče. V levé dolní části obrázku.
+<p align="center">
+    <img src="./Pics/WorkShop.png" width="720" />
+        <p align="center">
+            <b>Fig.6 - Making dimples for precise drilling holes for pins </b>
+        </p>
+</p>
+
+Na obrázku níže je zobrazena sestavy dřevěné konstrukce. Zde máme vzácnou možnost vidět onu sestavu z opačné strany, kde si můžeme povšimnout děr pro napojení na závitové týče. V levé dolní části obrázku se nachází jedna z podpůrných cihel, které jsou osazeny závitovými tyčemi. 
 
 <p align="center">
     <img src="./Pics/UnderConstruction.png" width="850" />
         <p align="center">
-            <b>Fig.5,6 - Under construction</b>
+            <b>Fig. 7 - Under construction</b>
         </p>
 </p>
