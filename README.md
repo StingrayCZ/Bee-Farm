@@ -15,14 +15,13 @@ Prvním krokem byl vstup do včelařské skupiny pro začínající hobby včela
 
 
 <p align="center">
-    <img src="./Pics/Beginning.png" width="500" />
-    <img src="./Pics/Beginning_bees.png" width="188 />
+    <img src="./Pics/PaperHive.png" width="800" />
         <p align="center">
             <b>Fig.2,3 - Deployment (15th July 2021)</b>
         </p>
 </p>
 
-Po zimě 21/22 následovalo drobné zklamání. Jedno včelstvo uhynylo. Avšak druhé včelstvo bylo velmi silné a vhodné pro odběr plodu. 
+Po zimě 21/22 následovalo drobné zklamání. Jedno včelstvo uhynylo. Avšak druhé včelstvo bylo velmi silné. Přebytek včel a plodu byl použit pro vytvoření dvou základů nových včelstev.
 
 <p align="center">
     <img src="./Pics/Before_B.png" width="850" />
@@ -43,21 +42,27 @@ Protože zelená a žlutá platforma vznikly jako improvizované řešení a umo
         </p>
 </p>
 
-Dřevěné trámy jsem si nechal nařezat na potřebné rozměry přímo u prodejce. Následně jsem si je v domácích podmínkách opracoval a opatřil ochranným nátěrem.
-
+Dřevěné trámy jsou nařezané na potřebné rozměry přímo u prodejce. Následné opracování probíhalo v domácích podmínkách a to včetně lakování olejovou barvou na dřevo.
 <p align="center">
-    <img src="./Pics/Klada_A.png" width="280" />
-    <img src="./Pics/Klada_B.png" width="250" />
+    <img src="./Pics/Vrtani_A.png" width="720" />
         <p align="center">
-            <b>Fig.5,6 - Wooden beam 100x100-2500 mm</b>
+            <b>Fig.5 - 
+Drilling holes for screws </b>
         </p>
 </p>
 
-Na obrázku níže je zobrazena sestavy dřevěné konstrukce. Zde mám vzácnou možnost vidět onu sestavu z opačné strany, kde si můžeme povšimnout děr pro napojení na závitové týče. V levé dolní části obrázku.
+<p align="center">
+    <img src="./Pics/WorkShop.png" width="720" />
+        <p align="center">
+            <b>Fig.6 - Making dimples for precise drilling holes for pins </b>
+        </p>
+</p>
+
+Na obrázku níže je zobrazena sestavy dřevěné konstrukce. Zde máme vzácnou možnost vidět onu sestavu z opačné strany, kde si můžeme povšimnout děr pro napojení na závitové týče. V levé dolní části obrázku se nachází jedna z podpůrných cihel, které jsou osazeny závitovými tyčemi. 
 
 <p align="center">
     <img src="./Pics/UnderConstruction.png" width="850" />
         <p align="center">
-            <b>Fig.5,6 - Under construction</b>
+            <b>Fig. 7 - Under construction</b>
         </p>
 </p>
