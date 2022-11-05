@@ -1,6 +1,6 @@
 # Bee Farm 🍯🐝
 
-Včelaření je v naší rodině dlouholetou tradicí. Již můj praděda se zabýval včelařením od svého mládí až do svých posledních dnů. Bohužel já pocházím z větve, která již druhou generaci žije ve velkoměstě a tak jsem vyrostl v bytovém domě, kde nebyla žádná zvířata. Kromě psů, koček a drobných hlodavců. To se změnilo v roce 2016, kdy jsem se rozhodl vrátit ke kořenům.
+The beekeeping is a long-standing tradition in my family. My great-grandfather was engaged in beekeeping from his youth until his last days. Unfortunately, I come from a branch that has been living in the big city for the second generation. So I grew up in an apartment building where there were no animals. Except for dogs, cats and small rodents. That changed in 2016 when I decided to go back to my roots.
 
 
 <p align="center">
@@ -11,17 +11,19 @@ Včelaření je v naší rodině dlouholetou tradicí. Již můj praděda se zab
 </p>
 
 
-Prvním krokem byl vstup do včelařské skupiny pro začínající hobby včelaře, kde jsem se naučil základní zootechnické postupy. V této době jsem neměl vlastní úly a staral jsem se o včelastva patřící skupině. V roce 2021 jsem se rozhodl osamostatnit a na pronajatém lesním pozemku na okraji města jsem začal budovat vlastní včelí minifarmu. Na začátku jsem tu umístil dvě mladá včelstva. Na obrázcích 2 a 3 je vidět podoba včelnice první den pro vysazení včelstev. Včelstva jsou stále umístěna v přepravních krabicích a na improvizovaných platformách. 
+
+The first step was joining a beekeeping group for beginner hobby beekeepers where I learned basic zootechnical procedures. At this time I did not have my own hives and I was looking after the bee colonies belonging to the group. In 2021, I decided to become independent and started to build my own mini-bee farm on a rented forest plot on the outskirts of the city. At the beginning, I placed two young bee colonies here. Pictures 2 and 3 show the appearance of the beehive on the first day of planting bee colonies. Apiaries are still housed in shipping boxes and on improvised platforms.
 
 
 <p align="center">
-    <img src="./Pics/PaperHive.png" width="800" />
+    <img src="./Pics/Beginning.png" width="500" />
+    <img src="./Pics/Beginning_bees.png" width="188 />
         <p align="center">
             <b>Fig.2,3 - Deployment (15th July 2021)</b>
         </p>
 </p>
 
-Po zimě 21/22 následovalo drobné zklamání. Jedno včelstvo uhynylo. Avšak druhé včelstvo bylo velmi silné. Přebytek včel a plodu byl použit pro vytvoření dvou základů nových včelstev.
+The winter of 21/22 was followed by a minor disappointment. One bee colony died. However, the second colony was very strong and suitable for collecting excess bees and brood to create new colonies.
 
 <p align="center">
     <img src="./Pics/Before_B.png" width="850" />
@@ -32,7 +34,7 @@ Po zimě 21/22 následovalo drobné zklamání. Jedno včelstvo uhynylo. Avšak 
 
 ## Build a New Wooden Bench
 
-Protože zelená a žlutá platforma vznikly jako improvizované řešení a umožňují umístění pouze jednoho úlu na každou platformu, padlo rozhodnutí vyrobit novou kvalitnější platformu s dostatečnou tuhostí konstrukce a kapacitou 4 až pět úlů. Finální návrh je jednoduchá konstrukce připomínající žebřík, která je umístěna na tři stavební cihly. Dřevěná část je vyrobena ze smrkového dřeba. Povrch je ošetřen olejovou barvou jako ochrana proti povětrnostním vlivům. Jednotlivé části jsou spojeny kolíky a vruty do dřeva.
+Since the green and yellow platforms were created as an improvised asap solution and allow the placement of only one hive on each platform, the decision was made to produce a new, higher quality platform with sufficient structural rigidity and a capacity of four to five hives. The final design is a simple structure resembling a ladder. That assy is placed on three building blocks. The wooden part is made from spruce wood. The surface is treated with oil paint as protection against weathering. Individual parts are connected by pins and wood screws.
 
 <p align="center">
     <img src="./Pics/Klada_A.png" width="280" />
@@ -42,27 +44,21 @@ Protože zelená a žlutá platforma vznikly jako improvizované řešení a umo
         </p>
 </p>
 
-Dřevěné trámy jsou nařezané na potřebné rozměry přímo u prodejce. Následné opracování probíhalo v domácích podmínkách a to včetně lakování olejovou barvou na dřevo.
+Dřevěné trámy jsem si nechal nařezat na potřebné rozměry přímo u prodejce. Následně jsem si je v domácích podmínkách opracoval a opatřil ochranným nátěrem.
+
 <p align="center">
-    <img src="./Pics/Vrtani_A.png" width="720" />
+    <img src="./Pics/Klada_A.png" width="280" />
+    <img src="./Pics/Klada_B.png" width="250" />
         <p align="center">
-            <b>Fig.5 - 
-Drilling holes for screws </b>
+            <b>Fig.5,6 - Wooden beam 100x100-2500 mm</b>
         </p>
 </p>
 
-<p align="center">
-    <img src="./Pics/WorkShop.png" width="720" />
-        <p align="center">
-            <b>Fig.6 - Making dimples for precise drilling holes for pins </b>
-        </p>
-</p>
-
-Na obrázku níže je zobrazena sestavy dřevěné konstrukce. Zde máme vzácnou možnost vidět onu sestavu z opačné strany, kde si můžeme povšimnout děr pro napojení na závitové týče. V levé dolní části obrázku se nachází jedna z podpůrných cihel, které jsou osazeny závitovými tyčemi. 
+I had the wooden beams cut to the required dimensions directly at the seller. Subsequently, I treated them at home and provided them with a protective coating.
 
 <p align="center">
     <img src="./Pics/UnderConstruction.png" width="850" />
         <p align="center">
-            <b>Fig. 7 - Under construction</b>
+            <b>Fig.5,6 - Under construction</b>
         </p>
 </p>
