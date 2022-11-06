@@ -18,7 +18,7 @@ The first step was joining a beekeeping group for beginner hobby beekeepers wher
 <p align="center">
     <img src="./Pics/Beginning.png" width="560" />
     <img src="./Pics/Beginning_bees.png" width="210 />
-        <p align="center">
+    <p align="center">
             <b>Fig.2,3 - Deployment (15th July 2021)</b>
         </p>
 </p>
@@ -49,8 +49,7 @@ I had the wooden beams cut to the required dimensions directly at the seller. Su
 <p align="center">
     <img src="./Pics/Vrtani_A.png" width="720" />
         <p align="center">
-            <b>Fig.5 -
-Drilling holes for screws </b>
+            <b>Fig.5 - Drilling holes for screws </b>
         </p>
 </p>
 
