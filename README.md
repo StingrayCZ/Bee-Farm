@@ -44,21 +44,31 @@ Since the green and yellow platforms were created as an improvised asap solution
         </p>
 </p>
 
-Dřevěné trámy jsem si nechal nařezat na potřebné rozměry přímo u prodejce. Následně jsem si je v domácích podmínkách opracoval a opatřil ochranným nátěrem.
+I had the wooden beams cut to the required dimensions directly at the seller. Subsequently, I treated them at home and provided them with a protective coating.
 
 <p align="center">
-    <img src="./Pics/Klada_A.png" width="280" />
-    <img src="./Pics/Klada_B.png" width="250" />
+    <img src="./Pics/Vrtani_A.png" width="720" />
         <p align="center">
-            <b>Fig.5,6 - Wooden beam 100x100-2500 mm</b>
+            <b>Fig.5 -
+Drilling holes for screws </b>
         </p>
 </p>
 
-I had the wooden beams cut to the required dimensions directly at the seller. Subsequently, I treated them at home and provided them with a protective coating.
+<p align="center">
+    <img src="./Pics/WorkShop.png" width="720" />
+        <p align="center">
+            <b>Fig.6 - Making dimples for precise drilling holes for pins </b>
+        </p>
+</p>
+
+
+
+
+The picture below shows the assembly of the wooden structure. Here we have a rare opportunity to see that assembly from the opposite side where we can notice the holes for the connection to the threaded part. In the lower left part of the picture there is one of the supporting blocks which are fitted with threaded rods.
 
 <p align="center">
     <img src="./Pics/UnderConstruction.png" width="850" />
         <p align="center">
-            <b>Fig.5,6 - Under construction</b>
+            <b>Fig. 7 - Under construction</b>
         </p>
 </p>
