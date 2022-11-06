@@ -16,8 +16,8 @@ The first step was joining a beekeeping group for beginner hobby beekeepers wher
 
 
 <p align="center">
-    <img src="./Pics/Beginning.png" width="520" />
-    <img src="./Pics/Beginning_bees.png" width="195 />
+    <img src="./Pics/Beginning.png" width="560" />
+    <img src="./Pics/Beginning_bees.png" width="210 />
         <p align="center">
             <b>Fig.2,3 - Deployment (15th July 2021)</b>
         </p>
