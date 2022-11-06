@@ -66,6 +66,8 @@ Drilling holes for screws </b>
 
 The picture below shows the assembly of the wooden structure. Here we have a rare opportunity to see that assembly from the opposite side where we can notice the holes for the connection to the threaded part. In the lower left part of the picture there is one of the supporting blocks which are fitted with threaded rods.
 
+THIS IS CHANGE
+
 <p align="center">
     <img src="./Pics/UnderConstruction.png" width="850" />
         <p align="center">
